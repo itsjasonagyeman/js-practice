@@ -1,0 +1,1 @@
+This REPO is meant to get me familiar with JavaScript and pushing to github
